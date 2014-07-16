@@ -1,0 +1,4 @@
+akcii_akcii:
+    resource: "@AkciiAkciiBundle/Resources/config/routing.yml"
+    prefix:   /
+

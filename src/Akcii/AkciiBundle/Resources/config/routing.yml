@@ -1,0 +1,11 @@
+akcii_akcii_akcii:
+    path:     /
+    defaults: { _controller: AkciiAkciiBundle:Akcii:index }
+    requirements:
+        _method:  GET
+
+akcii_akcii_services:
+    path:     /service
+    defaults: { _controller: AkciiAkciiBundle:Akcii:service }
+    requirements:
+        _method:  GET

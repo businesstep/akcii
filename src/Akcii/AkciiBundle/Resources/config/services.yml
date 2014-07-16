@@ -1,0 +1,7 @@
+parameters:
+#    akcii_akcii.example.class: Akcii\AkciiBundle\Example
+
+services:
+#    akcii_akcii.example:
+#        class: %akcii_akcii.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
